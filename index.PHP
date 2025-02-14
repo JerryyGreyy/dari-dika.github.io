@@ -8,17 +8,25 @@ Mau custom web ucapan online? Order Aja di Deka Tutorial !! (DM untuk order)
 + Instagram: deka_tutorial
 =========================*/
 
-teksHai = "Hai, ada surat buat kamu nih";
+teksHai = "Hai Cantikkk, ada surat buat kamu nih";
     
 konten = [
   {
-    gambar: "NamaFileGambar/Foto",
-    ucapan: "UcapanKalian",
+    gambar: "stiker3.GIF",
+    ucapan: "Sayanggg, abang minta maaf karena abang sering bikin kamu kesal yaa",
+  },
+ {
+    gambar: "stiker1.GIF",
+    ucapan: "dede jangan tinggalin abang ya sayang yaaa",
+  },
+ {
+    gambar: "stiker2.GIF",
+    ucapan: "Happy Valentine's Day dede sayangggg, I love Youuu, maaf yaa coklatnya nyusull :D",
   },
 ];
 
-musik = "musik.mp3";
-nomorWhatsapp = "6285xxx";
+musik = "musik1.MP3";
+nomorWhatsapp = "6282182198729";
 
 /*=========================*/
 DekaTutorial(konten, musik, nomorWhatsapp);
